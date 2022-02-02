@@ -1,0 +1,10 @@
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\bin\Debug\Bingo DesktopApp.exe.config
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\bin\Debug\Bingo DesktopApp.exe
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\bin\Debug\Bingo DesktopApp.pdb
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\obj\Debug\Bingo DesktopApp.csproj.AssemblyReference.cache
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\obj\Debug\Bingo_DesktopApp.Form1.resources
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\obj\Debug\Bingo_DesktopApp.Properties.Resources.resources
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\obj\Debug\Bingo DesktopApp.csproj.GenerateResource.cache
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\obj\Debug\Bingo DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\obj\Debug\Bingo DesktopApp.exe
+C:\Users\thomas.shaffer\source\repos\Bingo DesktopApp\obj\Debug\Bingo DesktopApp.pdb
